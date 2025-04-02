@@ -1,5 +1,4 @@
 import 'package:cripto_flutter/pages/home_page.dart';
-import 'package:cripto_flutter/pages/moedas_page.dart';
 import 'package:flutter/material.dart';
 
 class MeuAplicativo extends StatelessWidget {
